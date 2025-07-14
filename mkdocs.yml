@@ -1,3 +1,6 @@
 site_name: My Docs
 site_url: https://JimmyChen6.github.io
 site_description: HomePage of Yujun Chen
+
+nav:
+  - Home: index.md
