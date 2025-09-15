@@ -4,7 +4,7 @@ My name is Yujun Chen, you can also call me Jimmy Chen.
 
 ## Education
 
-- 
+- 浙江大学
 
 ## Others
 
