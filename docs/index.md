@@ -9,9 +9,9 @@ My name is Yujun Chen, you can also call me Jimmy Chen. My major is **Artificial
 
 ## Research Interest
 
-- Time Series Analysis
-- Deep learning
-- graph learning
+- Time Series Analysis(main topic)
+- Deep learning(main topic)
+- Graph learning
 - Large Languange Models
 
 ## Publication
