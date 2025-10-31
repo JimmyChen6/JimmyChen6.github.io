@@ -14,10 +14,6 @@ My name is Yujun Chen, you can also call me Jimmy Chen. My major is **Artificial
 - Graph learning
 - Large Languange Models
 
-## Publication
-
-Some paper is curently under review at KDD 26.
-
 ## Acknowledgements
 
 My advisor Prof. Yang plays an important role in my research, thank you very much! I will also appreciate the guidance of Shihao Tu and all the members of AINet.
